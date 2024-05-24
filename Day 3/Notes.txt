@@ -1,0 +1,36 @@
+1. landing page
+2. section in main
+3. icons are text
+dont ise img to insert icon
+4. font awesom
+5. cdn link of fontawesom
+
+section cut into 3 div
+adding icon
+6. size of icon - fa-2x
+
+7.created card
+8. duplicate card twice
+9. add border in card
+10. flex for vertical
+10.5 padding
+11. gap: 30px
+12. border radius
+13. hover to change color\
+
+14. css variable creation
+:root{
+--theme-color: dark green
+}
+
+15. color: var(--theme-color)
+16. transition duration
+17. size - 1em 
+
+homework
+contact section and about section
+
+uidesign daily
+awwwards.com
+baunfire
+locomotive JS library

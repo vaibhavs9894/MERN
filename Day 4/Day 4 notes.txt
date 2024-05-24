@@ -1,0 +1,42 @@
+1. landing page
+2.Footer
+3. use of gride
+
+4.div - class footer container
+5. another dic where we add links
+
+6. omtusuri site
+7. Footer description
+8. footer links
+9. there can be two classes written in 1 class
+10. display: grid
+
+11. grid template- column
+
+12.1fr equal equal 
+    1fr 2fr -- first twice the second one
+
+13.facebook icon linked from font awesom website
+
+14.tailwind introduction
+15. Assignment -   
+
+Bootstrap
+ css frameworks
+
+16.Tailwind start
+17. tailwind classes
+
+
+
+
+
+
+
+
+
+
+
+
+
+

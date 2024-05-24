@@ -1,0 +1,24 @@
+1. Problem solving
+2. w-full( width =100%)  class
+3. sale is live biger
+ text-8xl font:bold 
+4. lg:p-32 for bigger screen
+5. remove border
+6. item:center
+7. h-full occupipy whole header
+8. text:white
+9. new paragraph add
+10. add gap gap-x-16 (vertical gap)
+11. padding change again to 16
+12. box added
+13. type text and other properties added in box
+14. make responsive
+ col-span-12
+15. tailwind grids
+16. ingredient example
+17. 
+  website - flowrift
+     preline
+18. java script introduction
+19. es6 version
+20. es6 features website

@@ -1,0 +1,20 @@
+1. last assignment
+
+2. do while loop - do always work 1 time
+  after that work if condition is true
+3. for each loop - itretor - a data from where we can break value
+ like string or array
+4. for( let n of nums)
+ --for traverse threw array or strings
+5. array - explaining what array is
+6. array define 'const'
+7. can save any datatype in the array
+
+8.  indexing
+9. at function
+10. difference- 
+
+11. negative indexes - from backwards
+12. slicing 
+13. if we add wrong index
+14. price string

@@ -1,0 +1,22 @@
+1. index.js
+2. work on nodejs
+3. consol.log hello javascript
+4. terminal- select default
+5. how to run nodejs
+ node filename
+ if in different folder
+commands cd "foldername"
+         cd.. back folder
+6. log shortcuts
+7. data type
+8. typrof
+9. Node --watch filename(index)
+10. conditions
+11. presidence right to left
+
+12. add anything in string turns to string
+13. power 
+14. math.pow
+15.   loops
+16. === mean comparen type and value
+17. 

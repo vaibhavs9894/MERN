@@ -1,0 +1,35 @@
+1.background image - URL
+2.background color - cover
+3.Font Family - Google fonts ( roboto most used) 
+ google website used lato font
+ UI user interface
+ UX user xperience
+ f1 to select google font
+
+ edges mean - serif font
+ no edges - san serif font
+
+4. landing page design
+symantec tag
+
+ Header
+   div
+     ht title of website
+       p subtitle of website
+ main
+ footer
+
+5. Display : flex -- horizontal center
+ flex direction is by default row
+
+6. align item : center
+vertical center -- align
+7. rowreverse
+8. column reverse
+9. gradient
+ background image linear gradient
+10. psudo classes css hover
+
+new page contact form design
+
+cpntrol + forward slash to comment line

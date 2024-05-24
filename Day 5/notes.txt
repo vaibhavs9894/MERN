@@ -1,0 +1,22 @@
+1. Tailwind Login
+2. background tailwind
+3. border
+4. color
+5. justify
+6. rounded class tailwind
+7. css framework
+8. margin with border - my (y axix)
+9. border for input boxes
+10. border radius in input boxes
+11. color theme for website
+12. tailwind automatically turns dark theme color text into white
+13. bg-purple-600 button
+14. hover: bg-purple-600
+15. href link # stops it from reloading
+16. 
+
+campers to corporate event
+
+17. responsive md- wd 1/4
+
+18. md-wd 1/4 xl

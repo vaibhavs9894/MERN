@@ -1,0 +1,34 @@
+1. product list.html
+2. using tailwind file - work in
+3. product list dessign search
+4. add image of any product
+5. price also p tag
+6. give size w-1/4
+7.make width 11/12 
+8.add border to check
+9. now design css for texts
+10. float price right
+11. shadow
+
+12. grid
+13. responsove design
+14. designing how many grids show 
+compare to scren size
+
+15. header create
+16. mt-36 is margin from top
+17. background image
+
+18. container - grid
+19. sale is live
+
+20. undraw website
+
+21. 
+
+
+
+
+
+ 
+  
