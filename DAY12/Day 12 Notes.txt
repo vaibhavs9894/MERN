@@ -1,0 +1,34 @@
+1. map and filter revise
+2. new file objects.js
+3. print object
+4.extra time-------
+
+5.  start 
+6. const - mean cant change array elements
+7. Object- predefined fuction
+8. Object.keys
+9. Object.values
+10. new object smartphone
+11. my question
+12. string
+13. adding in string
+14. question2
+15. question 3
+16. how to print price
+17. push and print specific value
+18. question
+19. duplicate string
+20. map and filter
+21. filter function
+22. question
+23. phone with black color
+24. 
+
+
+span grid
+
+what does dot mean
+question to ask:-
+1st css which have more priority ID, class tag
+2nd - 4 photo add 1 bigger 2 smaller
+3rd. how to add background video live

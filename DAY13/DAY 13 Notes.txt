@@ -1,0 +1,43 @@
+1. starting
+2. Object - functions
+3. Attendance
+4. starting
+5. smartphone array
+6. brand return
+7. duplicate brand remove
+8. set function
+9. array.from
+10. question -1
+11. price remove
+12. price after 10% discount
+
+13. `` 
+14. String interpolation
+15. github link for practice
+
+16. ReaCT Begening
+17. slide link share 
+18. npx command
+19. who has error write other coomand
+
+20. no typescript
+21. use arrow
+
+22. theory REact explain
+23. DOM
+24. DOm Manipulation
+25. next.js
+26.change to frontend
+27.  
+
+
+
+swipeer js
+ 
+
+
+
+
+
+Q 1. Slide show of images
+Q 2. 

@@ -1,0 +1,49 @@
+1. adding new element
+	push- add in the end
+	unshift- add in the start
+2. removing element
+3. splice
+already taught need to revise online
+
+4.new file function created
+5. function introduced
+6.  var use
+
+7. const functuion
+8. return value
+9. and then print outside
+10.  2nd way of defining function
+ const getAvg=function(m1,m2,m3)
+
+11. arrow function
+12. factorial using arrow function
+13. brackets can be removed for arrow
+14. new file
+	array_OP.js
+15. nums.length = total length of array
+16. same function by loop each
+
+
+
+
+17. call back function
+18. passing function like a variable
+19. nums.forEach( () => {} );
+20. call back function is a fuction whom some other functiion calls
+21. home question
+22. home work questions
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+

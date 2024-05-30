@@ -1,0 +1,22 @@
+1. screenshot by inspect
+2. cntrl+shift+t in consol
+3. Test - 1
+
+4. last home work
+5. map_filter
+6. map and filter functions
+7. create array with numbers.
+8. call back map function
+9. question asked
+
+10.question solved - length find using map function
+
+11. question use map fuction to remove price tags
+12. parseInt - to convert string to integer
+13. slice to cut 
+
+14. filter
+15. filter doesn't modity straing value- It just filter based on your condition
+
+16. filter price between 500 to 3000
+   
