@@ -1,0 +1,48 @@
+1. single page application
+2. inspect-->network 
+3. in react entire page doesn't load
+ but a specific elements load so its fast
+4. jsicx= jsx
+
+5. rafce- to create a component
+
+6.  const name should be simmilar to export nsme
+7. global.css
+8. except 3 line remove all 
+
+9.layout.jsx
+10. new pages under app
+11. make new folder under app in small letter
+12.  create page.jsx under that folder
+
+13. create folder file once shortcut
+
+14. react arrow function export component = rafce 
+
+15.  question
+16. className
+17. next.js documentation
+
+
+18. style css in page
+ 
+19. camel case
+20. input tag
+21. always add slash to close tag
+22. class to classname
+23. for-htmlfor
+
+24. react again convert to normal html and css to show in brooooowser
+25.  design 2 pages
+
+login and signup
+
+ 
+
+
+
+
+
+
+
+
