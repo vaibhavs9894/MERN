@@ -1,0 +1,55 @@
+1. css in global.css- write normally
+2. css in class mybtn
+3. now my-btn is a css
+4. global css creation
+5. for a perticular folder creating css file
+
+6."foldername".module.css
+7. only class selector is uses in this
+8. camel cases only
+9. import css
+10. import classes(anything) from './name.css'
+11. classes.btn 
+12.how to ad local image
+13. we keep static files in public folder
+14. src= "/next.svg"
+15. mage will also be imported
+
+16. if imported it is used as javascript varible
+17. solving facing issue in original file
+18. logo.src
+
+19. layout.jsx-- 1 layout for all pages
+20. not-found.jsx - if went to a any other url not defined then went to a specific page
+21. question
+
+22. components
+23. app & components folder
+24.  navbar.jsx
+25. florift -- website
+26. search header
+
+27. Preline---- tailwind css template
+28. examples
+29. html to jsx
+30.component name has to start with upper name
+31. dropdown not working
+32. go preline home page
+
+33. framework guide
+34. npm install preline
+35. add plugin
+36. now 3rd step add this file
+37. new file prelinescript.jsx
+38. click on prelineScript press cntrl+Space
+39. next classd events stacks
+
+40- home work -- footer in all pages
+
+
+
+
+question1.OK can classes be any name
+2. OK is global css have more priority or local css
+3. OK is local css not applicable in other folder if imported
+4. 
