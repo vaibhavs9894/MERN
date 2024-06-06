@@ -1,0 +1,65 @@
+1. talking about footer who has sent home work
+2. attendance
+
+3. Events
+
+4. click on link open a page
+
+5. href='/login'
+6. / makes it after the page not a private login page
+7. its refresh and opens link
+
+8.  change brand anchor tag to link
+
+9. it will make it not refresh and open new link
+
+10. events-handeling
+
+11. if multiple word in creating a name always write with dash(-)
+
+12. Event-handeling
+13.    wait is over
+
+14. event -handeling after click
+15. create a button
+16. check colors in tailwind
+
+17.on -- all that shows are events
+18. call back function
+19.  sserver site rendering
+20. SSR'
+21. another event - runs when we change input value
+22. w-full
+23. print in consol
+24. when value changes run this 
+25. DOM access
+26. document body backgroud color change as event changes
+
+27.event.target.files
+28. next class create to do application
+29. key press event
+30. on mouse movement 
+31. print clientx and clienty positions of mouse
+32. 
+
+
+
+
+
+
+q1. event handeling fucction can be added anywhere
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
