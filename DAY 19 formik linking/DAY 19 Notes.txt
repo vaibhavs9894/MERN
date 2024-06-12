@@ -1,0 +1,21 @@
+1. node js
+2. next js - folder creating
+3. form create
+4. put validation
+5. to create form we use -- formik
+6. website formik'
+7. install formik
+8. package .json - consist library used 
+9. preline- examples
+10. authentication login form
+11. max-w-500px mx-auto
+12. formik addeding
+13. import useformik
+14. initial value
+15. on submit
+16. link in form tag
+17. handle submit is already made 
+18. remove required
+19.  do the samein name and password
+20. question asked
+21. 

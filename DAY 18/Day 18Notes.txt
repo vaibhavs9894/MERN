@@ -1,0 +1,34 @@
+1. attendance
+2. new array create
+3. q1 ... mean
+4. new task will come up
+5. delete buttom
+6. w-fit ml-auto
+7. delete task
+8. getting index
+9. q2 can we make delete anywhere
+10. index and value
+11. in checked value is true
+12. event.target.check to check value 
+13. q3 4th line
+14. conditional operator
+15. line threw
+16. webinar next week 
+17. current bvalue fix
+18. next chat page 
+msz write and enter 
+19. condition if bothing in array
+20. aadded alert
+21. toast
+react hot toast -------website
+22. npm i react-hot-toast
+23. toast add 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+1. Backend
+2. design resources for developer github repository
+3. mantine dev
+4. ui.maintine.dev
+5. next ui
+6. shadcn ui
+7. aceternity ui
+8. framer motion
+
+9. back
+10. install
+11. post css
+12. postcss.comfig.cjs
+13. page router
+14. app router we are using
+15.  mantine add in layout
+16. abouve children
+17. mantine button
+18. input box
+19. size
+20. tabler icon react
+21. iconsearch
+22. iconuser
+23. mantine ui
+24. ratings
+25. multiselect
+26. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

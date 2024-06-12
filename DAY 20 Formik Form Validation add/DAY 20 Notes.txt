@@ -1,0 +1,19 @@
+1. how to link form
+2. id, onchange, value 3 things to add
+3. formik-getstarted-
+4. validation scheme is easy
+5. yup library
+6. question validation mean
+7. question client side server side
+8. 'use client' used to show this is client side page
+9. do according to initial value
+10. add validationscheme: signupschema
+11. also import yup
+12. how to show message
+13. added message
+14. regular expression
+15. what is npm
+16. all javascript packages
+17. adding message in email and password
+18. disable signup button
+19. 
