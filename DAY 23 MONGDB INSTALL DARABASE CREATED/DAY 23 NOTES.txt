@@ -1,0 +1,37 @@
+ Backend setup and response
+1. DAtabase
+2. Organized Data
+3. SQL, Mysql
+4. Relational( Structured) -SQL
+5. Unstructured ( Documented) - NoSQL
+6. DBMS - to manage database
+7. mongodb is dbms
+8. mongodb is unstructured
+9. mongodb database viewed 
+
+10. mongodb setup
+11. ip address
+12. question
+13. add ip address
+14. file create for connecting database
+15. mongoose framework
+16. makes mogodb easier
+17. new file crreate = connection.js
+18. paste that copied from mongodb
+19. change password
+20. put database name between \ and ?
+21. mongoose.connect
+22. asynchronus function
+23. return promise
+24. thenc shortcut
+25. to check mongoose result
+26. .
+
+
+
+
+
+
+
+
+
